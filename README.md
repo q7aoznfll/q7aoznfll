@@ -1,7 +1,6 @@
 <h1 align="center">hey! i'm merry! 👋</h1>
 <hr>
-<h3>currently a cybersecurity student, i code a lot of my things in my free time as passion projects.
-i also have an interest in healthcare and psychology!</h3>
+<h3>current cybersecurity student, aspiring software developer</h3>
 <hr>
 <h3>stuff i dabble with: </h3>
 <a href="https://www.python.org/"><img width=5% src="https://abrudz.github.io/logos/Python.svg"></a>
