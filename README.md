@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm fry! :dizzy:</h1>
+<h1 align="center">hey, i'm merry! :dizzy:</h1>
 <hr>
 <i>aspiring software developer; game enthusiast</i>
 <hr>
