@@ -7,4 +7,4 @@
 <li>a little bit of c++ and lua</li>
 <hr>
 <i>thanks for stopping by! :star:</i><br>
-<i>yes, fry is not my real name</i>
+<i>yes, merry is not my real name</i>
